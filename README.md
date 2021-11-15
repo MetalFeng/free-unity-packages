@@ -7,6 +7,6 @@ The FreeUnityPackagesProject includes all the assets required for every feature.
 
 Current Available Features:
 
-##Anchored Touch Movement
+### Anchored Touch Movement
 
-Touch or Click and Drag controls to directly move GameObjects with some simple settings and Callback Events for functionality. Uses the Unity Physics System and compatible with Collisions.
+Touch or Click and Drag controls anywhere in the game view to directly move GameObjects. Includes some simple settings and Callback Events. Uses the Unity Physics System and compatible with Collisions.
