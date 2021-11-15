@@ -1,3 +1,7 @@
+Download and import the untiyproject file into your project on the editor by going to the top left corner of the editor:
+
+Assets -> Import Package -> Custom Package -> .unitypackage file
+
 Attach the AnchoredTouchMovement2D Script to any GameObject with a Rigidbody2D Component to move using touch anywhere on screen.
 
 Use the AnchoredTouchMovement3D Script for Rigidbody3D GameObjects.
